@@ -2,8 +2,8 @@
 
 int main(void)
 {
-    printf("Hello.\n My email address is:\n");
-    printf(" prithvi.ssnehal@student.manchester.ac.uk ");
+    printf("Hello.My email address is:");
+    printf("prithvi.snehal@student.manchester.ac.uk");
 
 
     return 0;
